@@ -10,7 +10,7 @@ using System.Data.SqlClient;
 using System.Configuration;
 using SchlManSysAPI.Models;
 
-// Ado.Net technology used for to create web api
+// Ado.Net technology used for to create web api project
 namespace SchlManSysAPI.Controllers
 {
     [RoutePrefix("students")]
